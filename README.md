@@ -10,4 +10,4 @@ IT Services analyst, and aspiring front-end developer.
 - Adobe Photoshop, Adobe Illustrator
 
 🌱 I’m currently learning
-- React
+- React / Next JS
