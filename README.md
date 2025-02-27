@@ -12,3 +12,4 @@ IT Services analyst, and aspiring front-end developer.
 🌱 I’m currently learning
 - React / Next JS
 - Redux
+- TypeScript
