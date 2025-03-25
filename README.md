@@ -4,7 +4,7 @@ IT Services analyst, and aspiring front-end developer.
 👀 Skills
 - HTML, CSS
 - JavaScript
-- React
+- React / Next JS
 - Tailwind CSS
 - PostgreSQL
 - Adobe Photoshop, Adobe Illustrator
